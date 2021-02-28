@@ -1,0 +1,1 @@
+This file contains the trained models and depending on the optimizer used ,we have different different models in this file with their saved weights,json and history.
